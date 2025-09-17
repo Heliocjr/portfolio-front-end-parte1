@@ -61,7 +61,7 @@ Link para o protótipo criado no Figma:
 
 Pagina inicial estilo Hero
 - **Desktop** - ![alt text](/imagensReadme/image_desktopDark.png)
-- **Mobile** - ![alt text](/imagensReadme/image_mobileDark.png.png)
+- **Mobile** - ![alt text](/imagensReadme/image_mobileDark.png)
 
 Seção Sobre Mim
 - **Desktop** - ![alt text](/imagensReadme/image-1_desktopDark.png)
