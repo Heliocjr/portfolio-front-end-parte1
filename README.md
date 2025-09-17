@@ -52,8 +52,8 @@ Link para o protótipo criado no Figma:
 
 ## 🔗 Acesso ao Projeto
 
-- **GitHub Pages:** [Clique aqui para acessar o site](https://seuusuario.github.io/nome-do-repositorio/)
-- **Repositório GitHub:** [Acesse o código-fonte aqui](https://github.com/seuusuario/nome-do-repositorio)
+- **GitHub Pages:** [Clique aqui para acessar o site](https://heliocjr.github.io/portfolio-front-end-parte1)
+- **Repositório GitHub:** [Acesse o código-fonte aqui](https://github.com/Heliocjr/portfolio-front-end-parte1) 
 
 ---
 
